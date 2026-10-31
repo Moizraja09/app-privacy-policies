@@ -453,6 +453,10 @@
       </p>
       <ul>
         <li>
+          Email:
+          <a href="mailto:avenilolabs@gmail.com">avenilolabs@gmail.com</a>
+        </li>
+        <li>
           GitHub (privacy policy repository):
           <a href="https://github.com/Moizraja09/app-privacy-policies" rel="noopener noreferrer">
             github.com/Moizraja09/app-privacy-policies
@@ -464,8 +468,9 @@
         </li>
       </ul>
       <p class="muted">
-        For the fastest response about this Policy, open an Issue on the privacy-policy repository and include
-        “Image Compressor Privacy” in the title.
+        For privacy questions, email us at
+        <a href="mailto:avenilolabs@gmail.com">avenilolabs@gmail.com</a>
+        and include “Image Compressor Privacy” in the subject line.
       </p>
     </section>
 
@@ -475,4 +480,3 @@
   </div>
 </body>
 </html>
-
